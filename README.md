@@ -1,5 +1,5 @@
 # Opencv-AFIS-Fingerprint-identification-system
-This is a python opencv program to find same fingerprint based on the opencv shift model from a database. This is a research based model not yet for consumer grade but will be made into consumer grade in a few years.
+This is a python opencv program to find same fingerprint based on the opencv shift model from a database. This is a research based model not yet for consumer grade but will be made into consumer grade in a few years and it does not use minutiae features for fingerprint detection.
 The requierments are python 3, compatible opencv version to python 3. Also this is tested in debain environment with python version 3 and opencv version 4.5.1 .
 Usage:
 python3 fp.py
