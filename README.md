@@ -4,3 +4,4 @@ The requierments are python 3, compatible opencv version to python 3. Also this 
 Usage:
 python3 fp.py
 When running the file keep the fingerprint you want to be detected from the database named as s.png and change the database location in the fp.py file in two place where the location is displayed, by default it is "/home/jake/Downloads/d1"). Change it to your database location
+This program works only with scanned prints not latent prints.
